@@ -2,7 +2,7 @@ import React from 'react';
 import { View, Text, Button, Image, StyleSheet } from 'react-native';
 
 // Importa tu imagen (asegúrate de que la ruta sea correcta)
-import loginImage from '../assets/images/login-logo.png';
+import loginImage from '../assets/logo.png';
 
 const LoginScreen = ({ navigation }) => {
   return (
