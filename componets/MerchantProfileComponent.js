@@ -11,4 +11,4 @@ const MerchantProfileComponent = ({ merchant }) => {
   );
 };
 
-export default MerchantProfileComponent;
+export default MerchantProfileComponent;y

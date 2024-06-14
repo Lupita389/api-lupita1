@@ -8,7 +8,7 @@ const CatalogoScreen = () => {
 
   useEffect(() => {
     // Aquí puedes realizar una llamada a la API para obtener los productos del catálogo
-    // Ejemplo de llamada a la API ficticia
+    
     fetch('https://api.example.com/products')
       .then(response => response.json())
       .then(data => setProducts(data))
